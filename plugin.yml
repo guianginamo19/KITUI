@@ -1,0 +1,10 @@
+---
+name: KitUI
+version: 0.0.1
+main: besher\KitUI\Main
+api: 3.14.2
+version: 1.0.0
+commands:
+    kit:
+        description: "Opens KitUI"
+...
